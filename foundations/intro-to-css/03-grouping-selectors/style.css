@@ -1,6 +1,7 @@
 /* Add CSS Styling */
 
-.button {
+.bw,
+.ybg {
   font-size: 28px;
   font-family: Helvetica, "Times New Roman", sans-serif;
 }
