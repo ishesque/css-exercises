@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+  background-color: #ff11ff;
+  font-family: Verdana, "DejaVu Sans", sans-serif;  
+}
+
+#twoblue {
+  color: #4200ff;
+  font-size: 36px;
+}
+
+.odder {
+  font-size: 24px;
+}
+
+#greenfor {
+  background-color: #11ff72;
+  font-size: 24px;
+  font-weight: bold;
+}
